@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Zairik
-- 👀 I’m interested in computers and how they continue to change and shape our world. To be momre specific I love data
-- 🌱 I’m currently learning data science
 - 📫 You can reach me on twitter @zairik_
 
 <!---
